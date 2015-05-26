@@ -1,0 +1,6 @@
+{
+    "article_path": "/Users/pduch/articles",
+    "template_path": "/Users/pduch/go/src/github.com/phea/greatfleas/templates",
+    "public_path": "/Users/pduch/go/src/github.com/phea/greatfleas/public",
+    "port": ":8080"
+}

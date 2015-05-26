@@ -1,0 +1,15 @@
+ {{define "archives"}}
+ <section class="article-list archives">
+  <ol class="post-list">
+    <lh>
+      <h2><span class="bb">Archives</span></h2>
+    </lh>
+    {{range $a := .Articles}}
+    <li>
+      <span class="post-title"><a href="/article/{{$a.Slug}}">{{$a.Title}}</a></span>
+      <time datetime="{{$a.Created}}">{{ts $a.Created}}</time>
+    </li>
+    {{end}}
+  </ol>
+ </section>
+ {{end}}

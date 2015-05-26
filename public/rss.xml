@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
+  <channel>
+    <title>GreatFleas </title>
+    <link>http://www.greatfleas.com</link>
+    <description>ad infinitum</description>
+    <managingEditor>email@email.com (Phea Duch)</managingEditor>
+    <pubDate>26 May 15 12:36 EDT</pubDate>
+    <item>
+      <title>Hello World</title>
+      <link>http://www.greatfleas.com/hello-world</link>
+      <description>&lt;p&gt;welcome to the bestest place in the whole wide world. Please come often and&#xA;come again after that.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Right now, I am just checking how this works.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;What!!!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Cool, Cool. Pop, Pop!&lt;/p&gt;&#xA;</description>
+      <author>Phea Duch</author>
+      <pubDate>26 May 15 12:36 EDT</pubDate>
+    </item>
+  </channel>
+</rss>

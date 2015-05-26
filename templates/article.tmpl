@@ -1,0 +1,19 @@
+{{define "article"}}
+    {{$a := .Article}}
+<section class="article">
+  <article>
+    <header>
+      <hgroup>
+        <h1>{{$a.Title}}</h1>
+        <time datetime="{{$a.Created}}">{{$a.Created}}</time>
+      </hgroup>
+    </header>
+    <section class="content">
+      {{$a.Content}}
+    </section>
+    <footer>
+      Social Media | #Comments
+    </footer>
+  </article>
+</section>
+{{end}}

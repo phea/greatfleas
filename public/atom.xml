@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GreatFleas </title>
+  <id>http://www.greatfleas.com</id>
+  <updated>2015-05-26T12:36:22-04:00</updated>
+  <subtitle>ad infinitum</subtitle>
+  <link href="http://www.greatfleas.com"></link>
+  <author>
+    <name>Phea Duch</name>
+    <email>email@email.com</email>
+  </author>
+  <entry>
+    <title>Hello World</title>
+    <updated>2015-05-26T12:36:22-04:00</updated>
+    <id>tag:www.greatfleas.com,2015-05-26:/hello-world</id>
+    <content type="html">&lt;p&gt;welcome to the bestest place in the whole wide world. Please come often and&#xA;come again after that.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Right now, I am just checking how this works.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;What!!!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Cool, Cool. Pop, Pop!&lt;/p&gt;&#xA;</content>
+    <link href="http://www.greatfleas.com/hello-world"></link>
+    <author>
+      <name>Phea Duch</name>
+      <email>email@email.com</email>
+    </author>
+  </entry>
+</feed>
