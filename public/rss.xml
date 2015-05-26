@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
   <channel>
-    <title>GreatFleas </title>
+    <title>GreatFleas</title>
     <link>http://www.greatfleas.com</link>
-    <description>ad infinitum</description>
+    <description>Thoughts from a founder.</description>
     <managingEditor>email@email.com (Phea Duch)</managingEditor>
-    <pubDate>26 May 15 12:36 EDT</pubDate>
+    <pubDate>26 May 15 16:20 EDT</pubDate>
+    <item>
+      <title>Introduction</title>
+      <link>http://www.greatfleas.com/intro</link>
+      <description>&lt;p&gt;I am a founder working on a project that is not yet ready to be announced. The&#xA;goal for my blog will be to journal the process of starting a company, which&#xA;hopefully will be successful.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;On the way, I’m sure I will also throw in my two cents on technology, personal&#xA;development, and things that I generally find interesting.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Writing and self-reflection is good for the soul, so I intend to make writing&#xA;a habit and hopefully this means new entries several times a week.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Hope you stick around!&lt;/p&gt;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Great fleas have little fleas upon their backs to bite ‘em,&lt;br/&gt;&#xA; And little fleas have lesser fleas, and so &lt;strong&gt;ad infinitum&lt;/strong&gt;.&lt;br/&gt;&#xA; And the great fleas themselves, in turn, have greater fleas to go on,&lt;br/&gt;&#xA; While these again have greater still, and greater still, and so on.&lt;br/&gt;&#xA; Augustus De Morgan&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;Follow me &lt;a href=&#34;http://twitter.com/phea&#34;&gt;@phea&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <author>Phea Duch</author>
+      <pubDate>26 May 15 00:00 UTC</pubDate>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://www.greatfleas.com/hello-world</link>
       <description>&lt;p&gt;welcome to the bestest place in the whole wide world. Please come often and&#xA;come again after that.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Right now, I am just checking how this works.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;What!!!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Cool, Cool. Pop, Pop!&lt;/p&gt;&#xA;</description>
       <author>Phea Duch</author>
-      <pubDate>26 May 15 12:36 EDT</pubDate>
+      <pubDate>19 May 15 00:00 UTC</pubDate>
     </item>
   </channel>
 </rss>

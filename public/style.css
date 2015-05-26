@@ -113,6 +113,20 @@ h2, .h2 {
   border-bottom: 2px solid #8ab9d1;
 }
 
+blockquote, blockquote p {
+  quotes: none;
+  font-size: 48px;
+  font-style: italic;
+  line-height: 1.3em;
+  text-align: center;
+  color: #3c3c3c;
+  margin-bottom: 33px;
+}
+
+blockquote strong {
+  font-weight: 700;
+}
+
 /* Navigation, Header, and Footer */ 
 header.site-header a {
   color: #3b3b3b;

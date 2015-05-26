@@ -47,9 +47,9 @@ func (idx ArticleIndex) Len() int {
 	return len(idx)
 }
 
-// Less
+// Less sorts so the newest articles are first.
 func (idx ArticleIndex) Less(i, j int) bool {
-	return idx[i].Created.Before(idx[j].Created)
+	return idx[j].Created.Before(idx[i].Created)
 }
 
 // Swap
