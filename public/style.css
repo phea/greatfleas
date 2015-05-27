@@ -342,7 +342,7 @@ article > header h1 {
   line-height: 1.25em;
 }
 
-article > header a {
+article > header a, article > header a:visited {
   color: #3b3b3b;
   transition: all 0.2s ease-in-out 0s;
 }
